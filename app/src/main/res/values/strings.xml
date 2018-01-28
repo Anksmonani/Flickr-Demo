@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApplicationDemo</string>
+    <string name="search_by_title">Search by title</string>
+</resources>
